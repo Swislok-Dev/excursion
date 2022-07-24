@@ -23,9 +23,14 @@ h3 {
   font-weight: 300;
 }
 
+.page-hero {
+  margin-top: 30px;
+}
+
 a {
   color: aquamarine;
   font-size: 16px;
+  margin-bottom: 40px;
 }
 
 footer img {
